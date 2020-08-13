@@ -4,5 +4,5 @@ This is something I've made in Swift language, inspired by this question: https:
 
 The CoreTextSwift class wrapper was made by @krzyzanowskim at https://github.com/krzyzanowskim/CoreTextSwift
 
-![Preview](https://raw.githubusercontent.com/huse360/LetterFrame/master/Screenshots/coretext%20char%20frame.png?v=4&s=0.5)
+![Preview](https://raw.githubusercontent.com/huse360/LetterFrame/master/Screenshots/coretext%20char%20frame%20crop.png)
 
