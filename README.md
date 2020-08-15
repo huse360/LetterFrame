@@ -4,5 +4,11 @@ This is something I've made in Swift language, inspired by this question: https:
 
 The CoreTextSwift class wrapper was made by @krzyzanowskim at https://github.com/krzyzanowskim/CoreTextSwift
 
+What I got:
+
 ![Preview](https://raw.githubusercontent.com/huse360/LetterFrame/master/Screenshots/coretext%20char%20frame%20crop.png)
+
+My wish (Furigana in green)
+
+![Preview](https://i.stack.imgur.com/f6qwe.png)
 
